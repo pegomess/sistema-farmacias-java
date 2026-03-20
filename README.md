@@ -1,4 +1,3 @@
-# sistema-farmacia-java
 # Sistema de Vendas Java
 
 ## Status do Projeto
